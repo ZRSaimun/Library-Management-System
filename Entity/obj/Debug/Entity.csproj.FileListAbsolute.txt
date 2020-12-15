@@ -1,0 +1,16 @@
+D:\AIUB-CS\8th semester\Library_Management_System\Entity\bin\Debug\Entity.dll
+D:\AIUB-CS\8th semester\Library_Management_System\Entity\bin\Debug\Entity.pdb
+D:\AIUB-CS\8th semester\Library_Management_System\Entity\obj\Debug\Entity.dll
+D:\AIUB-CS\8th semester\Library_Management_System\Entity\obj\Debug\Entity.pdb
+D:\AIUB-CS\8th semester\Library_Management_System\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+F:\Aumlan\Visual Studio\Project\Library_Management_System\Library_Management_System\Entity\bin\Debug\Entity.dll
+F:\Aumlan\Visual Studio\Project\Library_Management_System\Library_Management_System\Entity\bin\Debug\Entity.pdb
+F:\Aumlan\Visual Studio\Project\Library_Management_System\Library_Management_System\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+F:\Aumlan\Visual Studio\Project\Library_Management_System\Library_Management_System\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+F:\Aumlan\Visual Studio\Project\Library_Management_System\Library_Management_System\Entity\obj\Debug\Entity.dll
+F:\Aumlan\Visual Studio\Project\Library_Management_System\Library_Management_System\Entity\obj\Debug\Entity.pdb
+D:\AIUB-CS\8th semester\C#\Project\Library_Management_System\Library_Management_System\Entity\bin\Debug\Entity.dll
+D:\AIUB-CS\8th semester\C#\Project\Library_Management_System\Library_Management_System\Entity\bin\Debug\Entity.pdb
+D:\AIUB-CS\8th semester\C#\Project\Library_Management_System\Library_Management_System\Entity\obj\Debug\Entity.dll
+D:\AIUB-CS\8th semester\C#\Project\Library_Management_System\Library_Management_System\Entity\obj\Debug\Entity.pdb
+D:\AIUB-CS\8th semester\C#\Project\Library_Management_System\Library_Management_System\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
